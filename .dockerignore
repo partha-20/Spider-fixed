@@ -1,0 +1,12 @@
+.git
+.github
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv/
+env/
+.env
+data/dataset.csv
+data/generate_dataset.py
+tests/
