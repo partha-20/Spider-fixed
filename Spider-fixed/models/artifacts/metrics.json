@@ -1,6 +1,0 @@
-{
-  "test_size": 110,
-  "ensemble_accuracy": 1.0,
-  "ensemble_auc": 1.0,
-  "false_positive_rate_humans": 0.0
-}
